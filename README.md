@@ -1,4 +1,4 @@
-# Ticket booking app
+# Event ticket booking app
 
 How it will work,
 
